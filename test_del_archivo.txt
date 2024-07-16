@@ -1,0 +1,6 @@
+AQUI ESTA EL TEST DE LA ZONA DE TRABAJO PARA EL 
+
+git checkout -b test
+git add test_del_archivo.txt
+git commit -m "Agregar archivo en la rama test"
+git push origin testJADNFKADSKL
