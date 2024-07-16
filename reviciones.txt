@@ -1,0 +1,13 @@
+Respecto a la pagina de index
+- No PONE LOGO
+- NO UTILIZA UTF8
+- NO PONE ETIQUETAS
+
+Respecto a la pagina de Contctos
+- NO PONE CELULAR
+- EL MAPA NO ES RESPONSIVE
+- NO PONE DIRECCIONES
+
+Respecto a la pagina de quienes somos
+- NO COENCIDE CON EL OBJETIVO DE LA EMPRESA
+
